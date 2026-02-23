@@ -1,0 +1,5 @@
+# CV Parser Requirements
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+langchain-groq==0.1.5
+langchain-core==0.2.10
